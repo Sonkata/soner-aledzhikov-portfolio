@@ -4,17 +4,19 @@ A personal front-end developer portfolio website built with React, Vite and Reac
 
 ## Live Demo
 
-Coming soon.
+[View Live Website](https://sonkata.github.io/soner-aledzhikov-portfolio/)
 
-## About
+## About the Project
 
-This is my personal portfolio website.  
-It presents my front-end projects, skills, learning progress and contact links.
+This is my personal portfolio website. It presents my front-end projects, skills, learning progress and contact links.
 
 The project was built as part of my front-end learning path and includes real deployed projects made with HTML, CSS, JavaScript and React.
 
+The main goal of this portfolio is to show my progress, my completed projects and the technologies I am currently learning.
+
 ## Features
 
+- Responsive portfolio layout
 - Home page with hero section
 - Skills section
 - Featured projects section
@@ -22,10 +24,12 @@ The project was built as part of my front-end learning path and includes real de
 - About page
 - Contact page
 - Footer
-- 404 page
+- 404 Not Found page
 - React Router navigation
-- Responsive design
-- GitHub and Live Demo links
+- Active navigation links
+- Scroll to top on route change
+- Live Demo and GitHub links for projects
+- Mobile-friendly design
 
 ## Technologies Used
 
